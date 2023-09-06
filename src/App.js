@@ -1,10 +1,15 @@
+//import Second from "./component/Second";
+import Third from "./component/Third";
+import Forth from "./component/forth";
 
-import './App.css';
+
 
 function App() {
   return (
-    <div className="App">
-     
+    <div >
+     {/* <Second/> */}
+     {/* <Third/> */}
+     <Forth/>
     </div>
   );
 }
